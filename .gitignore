@@ -1,0 +1,5 @@
+backend.bat
+frontend.bat
+*.csv
+*.db
+/__pycache__
